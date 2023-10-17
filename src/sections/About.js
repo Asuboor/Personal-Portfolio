@@ -7,11 +7,11 @@ const About = () => {
   return (
     <div className=" p-3  flex flex-col-reverse lg:flex-row place-content-between font-mono mt-5 " id="about">
       <div className="flex flex-col w-2/3 m-auto ">
-        <div className="text-4xl font-bold text-center lg:text-left ">
+        <div className="text-4xl font-bold text-center lg:text-left pt-2">
           Hi, I am <br />
           Abdul Suboor
         </div>
-        <div className="font-light text-xl mt-4 text-light pt-3 "> 
+        <div className="font-light text-xl mt-4 text-light  leading-normal "> 
           <Typing />
         </div>
         <div className="text-xl mt-3">

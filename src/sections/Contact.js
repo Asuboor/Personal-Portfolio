@@ -9,7 +9,7 @@ const Contact = () => {
       <div className="text-center text-5xl mt-24 font-bold">Contact</div>
       <div className="w-2/3 m-auto  p-4 space-y-4 ">
         <div className="text-center text-2xl  m-6 font-lg">
-          Feel free to reach out to me for any questions or opportunities 🚀
+          Feel free to reach out to me for any questions/opportunities 🚀
         </div>
         <div className="flex place-content-center gap-8">
           <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJvmZTglnnLvDJlhdtgJKdttNxMZxnVMLNzxcQRGwrGBvTFQMSZfcfdPNxQpvnvmgdTXbSV">
