@@ -4,7 +4,7 @@ import { Image } from "@chakra-ui/react";
 
 const ExpCard = (props) => {
   return ( 
-    <div className="w-2/3  m-auto  mb-11  border-light border-2  rounded-2xl bg-black lg:w-1/2">
+    <div className="w-auto  m-auto  mb-11  border-light border-2  rounded-2xl bg-black lg:w-1/2">
       <div className="flex mt-3 ml-4 ">
         <Image
           className="rounded-2xl"
