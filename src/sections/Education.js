@@ -6,7 +6,7 @@ const Education = () => {
   return (
     <div id="education">
       <div className='text-center text-5xl mt-24 font-bold '>Education</div>
-      <div>
+      <div className="p-4">
         {education.map((eduIndex) => (
           <EduCard key={eduIndex.key} image={eduIndex.image} name={eduIndex.name} course={eduIndex.course} duration={eduIndex.duration} description={eduIndex.desciption} />
         )).reverse()}

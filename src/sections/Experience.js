@@ -6,7 +6,7 @@ const Experience = () => {
   return (
     <div className="mt-4" id="experience">
       <div className="text-center text-5xl mt-24 font-bold">Experience</div>
-      <div className="mt-20 ">
+      <div className="mt-20 p-4">
         {experience.map((expItem) => (
           <ExpCard
             key={expItem.key}
