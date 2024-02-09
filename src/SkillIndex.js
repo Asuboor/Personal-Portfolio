@@ -14,6 +14,10 @@ const skills = [
   },
   {
     key:4,
+    title:"Devops"
+  },
+  {
+    key:5,
     title:"Others"
   }
 ];

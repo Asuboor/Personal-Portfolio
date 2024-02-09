@@ -31,6 +31,10 @@ const others=[
         key:8,
         tech:"API"
     },
+    {
+        key:9,
+        tech:"Bash"
+    }
 ]
 
 export default others;

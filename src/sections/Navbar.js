@@ -17,9 +17,9 @@ const Navbar = () => {
       <nav className="bg-purple p-10">
         <div className="container mx-auto flex items-center justify-between ">
           <div className="flex items-center">
-            <a href="/" className="text-white text-3xl font-bold ">
+            <p href="/" className="text-white text-3xl font-bold ">
               PORTFOLIO
-            </a>
+            </p>
           </div>
           <div className="hidden md:flex space-x-6 text-xl">
             <Link to="#about">About</Link>
