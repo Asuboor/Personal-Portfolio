@@ -23,7 +23,7 @@ const About = () => {
         <div className="">
           {" "}
           <Button className="m-4 bg-light w-32 "  variant="outline">
-            <a href="https://drive.google.com/file/d/1pPo0hvfUaQ7NUHRztSF79FpLgntNRgjk/view" className="w-full">Resume</a> 
+            <a href="https://drive.google.com/file/d/1evNhcdcRt1ELoYClPOrxC6V4FPETcKuF/view?usp=drive_link" className="w-full">Resume</a> 
           </Button>
         </div>
       </div>

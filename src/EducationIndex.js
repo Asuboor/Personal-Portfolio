@@ -7,7 +7,7 @@ const education = [
     course: "High School",
     duration: "April 2009 - Mar 2018",
     desciption:
-      "I have successfully completed my higer school studies with distinction. ",
+      "I have successfully completed my higer school studies with distinction",
   },
   {
     key: 2,
@@ -20,12 +20,12 @@ const education = [
   },
   {
     key: 3,
-    image: "https://universitykart.b-cdn.net//Content/upload/admin/u5zlx1jh.a2i.jpeg",
-    name: "Deccan College of Engineering & Technology",
+    image: "https://logowik.com/content/uploads/images/osmania-university8497.jpg",
+    name: "Osmania University",
     course: "BE in Information Technology",
-    duration: "Oct 2020 - Current",
+    duration: "Oct 2020 - Jul 2024",
     desciption:
-      "Currently pursuing Undergrad Engineering and have complete my 6/8 semesters with 8.46 gpa in total.  ",
+      "Graduated with a CGPA of 8.55/10 and earned an A grade with Distinction ",
   },
 ];
 

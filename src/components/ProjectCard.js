@@ -14,7 +14,7 @@ import {
 
 const ProjectCard = (props) => {
   return (
-    <div className="m-2  border-light border-2  rounded-lg ">
+    <div className="m-2   border-light border-2  rounded-lg place-content-evenly">
       <Card maxW="350px"  bgColor="black" >
         <CardBody >
           <Image

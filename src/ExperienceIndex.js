@@ -1,3 +1,4 @@
+import dcrypt from "./dcrypt.jpeg"
 const experience = [
   {
     key: 1,
@@ -18,6 +19,16 @@ const experience = [
     description:
       "I had the privilege of guiding , nurturing the next generation of developers and helping them through their journey in the world of web development. I imparted my knowledge and expertise in front-end and back-end technologies, equipping them with the skills to create dynamic websites and applications. Whether it was teaching HTML, CSS, JavaScript, or diving deep into databases and server-side scripting. Witnessing their growth and the projects they completed was incredibly rewarding",
     skills: ["Mentorship", "Frontend development", "Backend development"],
+  },
+  {
+    key: 3,
+    image: dcrypt,
+    role: "Software Developer",
+    company: "Dcrypt",
+    period: "Oct 2023 - Present",
+    description:
+      "As a Software Developer at Dcrypt Startup, I played a key role in building our AI-powered coding education platform. I developed and integrated features that enhanced user engagement and learning experiences, using technologies like React and Node.js. I collaborated with teams to ensure high-quality and efficient development, resolved technical issues, and continuously improved the platform.",
+    skills: ["ReactJS", "Node.js", "Docker", "Team Leadership"],
   },
 ];
 
