@@ -23,7 +23,7 @@ const education = [
     image: "https://logowik.com/content/uploads/images/osmania-university8497.jpg",
     name: "Osmania University",
     course: "BE in Information Technology",
-    duration: "Oct 2020 - Jul 2024",
+    duration: "Oct 2020 - Jun 2024",
     desciption:
       "Graduated with a CGPA of 8.55/10 and earned an A grade with Distinction ",
   },

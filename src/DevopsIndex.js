@@ -25,8 +25,16 @@ const devops = [
     },
     {
         key: 7,
-        tech: "CloudFormation"
-    }
+        tech: "GitOps"
+    },
+    {
+        key: 8,
+        tech: "Kubernetes"
+    },
+    {
+        key: 9,
+        tech: "Grafana"
+    },
 ];
 
 export default devops;

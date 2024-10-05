@@ -9,9 +9,10 @@ const About = () => {
       <div className="flex flex-col w-2/3 m-auto ">
         <div className="text-4xl font-bold text-center lg:text-left pt-2">
           Hi, I am <br />
-          Abdul Suboor
+          <p className="text-[#007FFF]">
+          Abdul Suboor </p>
         </div>
-        <div className="font-light text-xl mt-4 text-light  leading-normal "> 
+        <div className="font-semibold text-xl mt-4 text-light  leading-normal "> 
           <Typing />
         </div>
         <div className="text-xl mt-3">
@@ -23,7 +24,7 @@ const About = () => {
         <div className="">
           {" "}
           <Button className="m-4 bg-light w-32 "  variant="outline">
-            <a href="https://drive.google.com/file/d/1evNhcdcRt1ELoYClPOrxC6V4FPETcKuF/view?usp=drive_link" className="w-full">Resume</a> 
+            <a href="https://drive.google.com/file/d/15nu2khDMjLj2qbE0fyQ-LCXZ9rPQsJ35/view?usp=sharing" className="w-full">Resume</a> 
           </Button>
         </div>
       </div>

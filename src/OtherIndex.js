@@ -34,6 +34,10 @@ const others=[
     {
         key:9,
         tech:"Bash"
+    },
+    {
+        key:10,
+        tech:"Git/GitHub"
     }
 ]
 
