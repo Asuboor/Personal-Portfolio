@@ -1,8 +1,10 @@
-import dcrypt from "./dcrypt.jpeg"
+import dcrypt from "./dcrypt.jpeg";
+import primerx from "./primerx_logo.jpg";
 const experience = [
   {
     key: 1,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYelpThrk1adZVYcvqk1lncPwfUBplo4jZFGeX9a2uHBwDbqUUO5TxU45LYuIvtkfHbKE&usqp=CAU",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYelpThrk1adZVYcvqk1lncPwfUBplo4jZFGeX9a2uHBwDbqUUO5TxU45LYuIvtkfHbKE&usqp=CAU",
     role: "Web Developer Intern",
     company: "MTAB Technology Center Pvt Ltd",
     period: "May 2023 - June 2023",
@@ -20,15 +22,25 @@ const experience = [
   //     "I had the privilege of guiding , nurturing the next generation of developers and helping them through their journey in the world of web development. I imparted my knowledge and expertise in front-end and back-end technologies, equipping them with the skills to create dynamic websites and applications. Whether it was teaching HTML, CSS, JavaScript, or diving deep into databases and server-side scripting. Witnessing their growth and the projects they completed was incredibly rewarding",
   //   skills: ["Mentorship", "Frontend development", "Backend development"],
   // },
+  // {
+  //   key: 2,
+  //   image: dcrypt,
+  //   role: "Software Developer",
+  //   company: "Dcrypt",
+  //   period: "Oct 2023 - Oct 2024",
+  //   description:
+  //     "As a Software Developer at Dcrypt Startup, I played a key role in building our AI-powered coding education platform. I developed and integrated features that enhanced user engagement and learning experiences, using technologies like React and Node.js. I collaborated with teams to ensure high-quality and efficient development, resolved technical issues, and continuously improved the platform.",
+  //   skills: ["ReactJS", "Node.js", "Docker", "Team Leadership"],
+  // },
   {
-    key: 2,
-    image: dcrypt,
-    role: "Software Developer",
-    company: "Dcrypt",
-    period: "Oct 2023 - Oct 2024",
+    key: 3,
+    image: primerx,
+    role: "Technical Support Executive",
+    company: "PrimeRx.io",
+    period: "Nov 2024 - Current",
     description:
-      "As a Software Developer at Dcrypt Startup, I played a key role in building our AI-powered coding education platform. I developed and integrated features that enhanced user engagement and learning experiences, using technologies like React and Node.js. I collaborated with teams to ensure high-quality and efficient development, resolved technical issues, and continuously improved the platform.",
-    skills: ["ReactJS", "Node.js", "Docker", "Team Leadership"],
+      "As a Technical Support Executive at PrimeRx.io, I ensure seamless technical operations and deliver reliable support to pharmacy clients. I specialize in troubleshooting software and database issues, managing cloud backups, and maintaining system performance. By combining technical expertise with strong communication skills, I help streamline workflows, resolve client issues efficiently, and contribute to the overall stability of pharmacy management systems.",
+    skills: ["AWS", "SQL", "Troubleshooting", "Windows Server"],
   },
 ];
 
