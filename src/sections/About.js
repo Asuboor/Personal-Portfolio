@@ -18,18 +18,10 @@ const About = () => {
           <Typing />
         </div>
         <div className="text-xl mt-3">
-          Currently working as a Technical Support Executive at PrimeRx.io,
-          combining technical expertise with strong problem-solving skills to
-          deliver reliable solutions and ensure smooth technical operations.
-          Experienced across software development, cloud infrastructure, and
-          DevOps practices, with a focus on maintaining performance, resolving
-          issues, and supporting clients effectively. Proficient in C++, Java,
-          Python, and modern web technologies including HTML, CSS, JavaScript,
-          Node.js, React, and Express. Skilled with Docker, Jenkins, Kubernetes,
-          AWS, and database management using MongoDB and MySQL. Passionate about
-          continuous learning and innovation, dedicated to optimizing systems
-          and contributing to efficient, scalable, and impactful technology
-          solutions.
+          Technical Support at PrimeRx.io with experience in cloud, DevOps, and
+          system administration. Skilled in AWS, Azure, Docker, and modern web
+          technologies. Passionate about solving problems and building
+          efficient, scalable systems.
         </div>
         <div className="">
           {" "}

@@ -5,7 +5,7 @@ const Typing = () => {
     <TypeAnimation
       sequence={[
         // Same substring at the start will only be typed out once, initially
-        "Technical Support & System Administrator.",
+        "Tech Support & SysAdmin.",
         1000, // wait 1s before replacing "Mice" with "Hamsters"
       ]}
       wrapper="span"
