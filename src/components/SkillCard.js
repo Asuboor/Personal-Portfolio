@@ -9,7 +9,7 @@ const SkillCard = (props) => {
   return (
     <>
       {" "}
-      <div className="flex flex-col  border-light border-2  rounded-2xl bg-black lg:w-1/3 w-auto m-auto mt-6">
+      <div className="flex flex-col  border-light border-2  rounded-2xl lg:w-1/3 w-auto m-auto mt-6">
         <div className="m-auto p-3 text-3xl	text-center ">DevOps</div>
 
         <div className="m-auto flex flex-wrap-reverse gap-4 p-6 text-xl">
@@ -18,8 +18,8 @@ const SkillCard = (props) => {
           ))}
         </div>
       </div>
-      <div className="flex flex-col  border-light border-2  rounded-2xl bg-black lg:w-1/3 w-auto m-auto mt-6">
-        <div className="m-auto p-3 text-3xl	text-center ">Other Tools</div>
+      <div className="flex flex-col  border-light border-2  rounded-2xl lg:w-1/3 w-auto m-auto mt-6">
+        <div className="m-auto p-3 text-3xl	text-center ">IT Tools</div>
 
         <div className="m-auto flex flex-wrap-reverse gap-4 p-6 text-xl">
           {others.map((otherItem) => (
@@ -27,7 +27,7 @@ const SkillCard = (props) => {
           ))}
         </div>
       </div>
-      <div className="flex flex-col  border-light border-2  rounded-2xl  lg:w-1/3 w-auto m-auto backdrop-blur-md mt-6   ">
+          <div className="flex flex-col  border-light border-2  rounded-2xl lg:w-1/3 w-auto m-auto backdrop-blur-md mt-6   ">
         <div className="m-auto p-3 text-3xl	text-center ">Frontend</div>
 
         <div className="m-auto flex flex-wrap-reverse gap-4 p-6 text-xl ">
@@ -36,7 +36,7 @@ const SkillCard = (props) => {
           ))}
         </div>
       </div>
-      <div className="flex flex-col border-light border-2 rounded-2xl bg-black lg:w-1/3 w-auto m-auto mt-6">
+      <div className="flex flex-col border-light border-2 rounded-2xl lg:w-1/3 w-auto m-auto mt-6">
         <div className="m-auto p-3 text-3xl	text-center ">Backend</div>
 
         <div className=" flex flex-wrap-reverse gap-4 p-6 text-xl">

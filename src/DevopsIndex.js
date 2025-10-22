@@ -33,8 +33,8 @@ const devops = [
     },
     {
         key: 9,
-        tech: "Grafana"
-    },
+        tech: "Azure"
+    },  
 ];
 
 export default devops;

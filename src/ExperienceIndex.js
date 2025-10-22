@@ -40,7 +40,7 @@ const experience = [
     period: "Nov 2024 - Current",
     description:
       "As a Technical Support Executive at PrimeRx.io, I ensure seamless technical operations and deliver reliable support to pharmacy clients. I specialize in troubleshooting software and database issues, managing cloud backups, and maintaining system performance. By combining technical expertise with strong communication skills, I help streamline workflows, resolve client issues efficiently, and contribute to the overall stability of pharmacy management systems.",
-    skills: ["AWS", "SQL", "Troubleshooting", "Windows Server"],
+      skills: ["AWS", "SQL", "Windows Server", "SysAdmin", "Troubleshooting", "Networking"],
   },
 ];
 
