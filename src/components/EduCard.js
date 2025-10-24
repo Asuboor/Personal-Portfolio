@@ -3,7 +3,7 @@ import { Image } from "@chakra-ui/react";
 
 const EduCard = (props) => {
   return (
-    <div className="w-auto  m-auto   mt-12  border-light border-2  rounded-2xl bg-black lg:w-1/2">
+    <div className="w-auto  m-auto   mt-12  border-light border-2  rounded-2xl  lg:w-1/2">
       <div className="flex mt-3 ml-4 ">
         <Image
           className="rounded-2xl"

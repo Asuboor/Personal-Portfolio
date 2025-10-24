@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\ExperienceIndex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ExperienceIndex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\sections\\Skills.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\sections\\Skills.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\SkillIndex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SkillIndex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\components\\SkillsTech.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\SkillsTech.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\sections\\About.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\sections\\About.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\OtherIndex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\OtherIndex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\DevopsIndex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\DevopsIndex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\components\\SkillCard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\SkillCard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
@@ -14,20 +46,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExperienceIndex.js",
+              "DocumentMoniker": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\ExperienceIndex.js",
+              "RelativeDocumentMoniker": "src\\ExperienceIndex.js",
+              "ToolTip": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\ExperienceIndex.js",
+              "RelativeToolTip": "src\\ExperienceIndex.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-22T19:00:28.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkillIndex.js",
+              "DocumentMoniker": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\SkillIndex.js",
+              "RelativeDocumentMoniker": "src\\SkillIndex.js",
+              "ToolTip": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\SkillIndex.js",
+              "RelativeToolTip": "src\\SkillIndex.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-22T19:00:02.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkillsTech.js",
+              "DocumentMoniker": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\components\\SkillsTech.js",
+              "RelativeDocumentMoniker": "src\\components\\SkillsTech.js",
+              "ToolTip": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\components\\SkillsTech.js",
+              "RelativeToolTip": "src\\components\\SkillsTech.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-22T18:59:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.js",
+              "DocumentMoniker": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\sections\\About.js",
+              "RelativeDocumentMoniker": "src\\sections\\About.js",
+              "ToolTip": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\sections\\About.js",
+              "RelativeToolTip": "src\\sections\\About.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-22T18:52:18.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SkillCard.js",
+              "DocumentMoniker": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\components\\SkillCard.js",
+              "RelativeDocumentMoniker": "src\\components\\SkillCard.js",
+              "ToolTip": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\components\\SkillCard.js",
+              "RelativeToolTip": "src\\components\\SkillCard.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-22T18:46:46.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Skills.js",
+              "DocumentMoniker": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\sections\\Skills.js",
+              "RelativeDocumentMoniker": "src\\sections\\Skills.js",
+              "ToolTip": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\sections\\Skills.js",
+              "RelativeToolTip": "src\\sections\\Skills.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-22T18:46:43.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OtherIndex.js",
+              "DocumentMoniker": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\OtherIndex.js",
+              "RelativeDocumentMoniker": "src\\OtherIndex.js",
+              "ToolTip": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\OtherIndex.js",
+              "RelativeToolTip": "src\\OtherIndex.js",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-22T18:45:18.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DevopsIndex.js",
+              "DocumentMoniker": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\DevopsIndex.js",
+              "RelativeDocumentMoniker": "src\\DevopsIndex.js",
+              "ToolTip": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\DevopsIndex.js",
+              "RelativeToolTip": "src\\DevopsIndex.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-22T18:43:35.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "App.js",
               "DocumentMoniker": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\App.js",
               "RelativeDocumentMoniker": "src\\App.js",
               "ToolTip": "C:\\Users\\SyedAbdulSuboor\\Desktop\\portfolio\\Personal-Portfolio\\src\\App.js",
               "RelativeToolTip": "src\\App.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-10-15T18:55:34.419Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

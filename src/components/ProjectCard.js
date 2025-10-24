@@ -15,8 +15,8 @@ import {
 const ProjectCard = (props) => {
   return (
     <div className="m-2   border-light border-2  rounded-lg place-content-evenly">
-      <Card maxW="350px"  bgColor="black" >
-        <CardBody >
+          <Card maxW="350px"  bgColor="transparent" >
+        <CardBody>
           <Image
             src={props.image}
             alt="Green double couch with wooden legs"

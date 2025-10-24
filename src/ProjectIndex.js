@@ -6,9 +6,18 @@ import Mdrs from "./mdrs.png";
 import awssetup from "./aws-1.jpg";
 import awscicd from "./aws-cicd-2.png";
 import GitOps from "./GitOps-Architecture.png"
+import ITinfrastructure from "./IT-Infrastructure.jpg"
 const project = [
+    {
+        key: 1,
+        image: ITinfrastructure,
+        title: "Building a Corporate IT Infrastructure",
+        description:
+            "Designed and deployed a real-world Windows Server 2019 infrastructure simulating a corporate environment. Configured Active Directory, Group Policies, file sharing, security hardening, and cloud backups. Overcame GPO and permission conflicts, mastering system administration, troubleshooting, and automation. Turned complex challenges into a powerful hands-on learning experience to strengthened my IT foundation.",
+        link: "https://abdulsuboor.notion.site/Local-Windows-Server-2019-Corporate-IT-Infrastructure-Project-24cbdf64ccc680429f36f37d1af359b9",
+    },
   {
-    key: 1,
+    key: 2,
     image: GitOps,
     title: "GitOps Deployment of VProfile Application",
     description:
@@ -16,7 +25,7 @@ const project = [
     link: "https://abdulsuboor.notion.site/GitOps-Project-10abdf64ccc680fca5dde0c575cf9402",
   },
   {
-    key: 2,
+    key: 3,
     image: Mdrs,
     title: "Recom-Ai: Multi-domain Recommender System",
     description:
@@ -24,7 +33,7 @@ const project = [
     link: "https://github.com/Asuboor/Multi-domain-Recommender-Systems",
   },
   {
-    key: 3,
+    key: 4,
     image: awssetup,
     title: "AWS VProfile setup on AWS",
     description:
@@ -32,7 +41,7 @@ const project = [
     link: "https://github.com/Asuboor/AWS_vprofile",
   },
   {
-    key: 4,
+    key: 5,
     image: awscicd,
     title: "AWS CI/CD",
     description:
@@ -40,7 +49,7 @@ const project = [
     link: "https://github.com/Asuboor/AWS_vprofile/tree/AWS-ci/cd-pipeline",
   },
   {
-    key: 5,
+    key: 6,
     image: expensior,
     title: "Expensior",
     description:
@@ -48,7 +57,7 @@ const project = [
     link: "https://github.com/Asuboor/Expensior-ExpenseManager",
   },
   {
-    key: 6,
+    key: 7,
     image: price,
     title: "Price Notifier",
     description:
@@ -65,7 +74,7 @@ const project = [
   //   link: "https://github.com/Asuboor/Blog_App",
   // },
   {
-    key: 7,
+    key: 8,
     image: weather,
     title: "My Weather Updates",
     description:
