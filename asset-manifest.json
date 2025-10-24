@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Personal-Portfolio/static/css/main.e3d72e09.css",
-    "main.js": "/Personal-Portfolio/static/js/main.58768f8e.js",
+    "main.css": "/Personal-Portfolio/static/css/main.73f5c79e.css",
+    "main.js": "/Personal-Portfolio/static/js/main.9be03825.js",
     "static/js/787.1ed0c42c.chunk.js": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/tripster.png": "/Personal-Portfolio/static/media/tripster.f030f3da7515f40b71e4.png",
     "static/media/its_ak.jpg": "/Personal-Portfolio/static/media/its_ak.1d5c05f94c47eaa6dc88.jpg",
@@ -11,14 +11,15 @@
     "static/media/GitOps-Architecture.png": "/Personal-Portfolio/static/media/GitOps-Architecture.1baa6f3d381f41bfb324.png",
     "static/media/aws-cicd-2.png": "/Personal-Portfolio/static/media/aws-cicd-2.889a301b0b1d8f37f52e.png",
     "static/media/aws-1.jpg": "/Personal-Portfolio/static/media/aws-1.0c7e01ad1170f4e22780.jpg",
+    "static/media/IT-Infrastructure.jpg": "/Personal-Portfolio/static/media/IT-Infrastructure.cdc5dfceef2b445f4af7.jpg",
     "static/media/expensior.png": "/Personal-Portfolio/static/media/expensior.2ece52a47e2526daa7eb.png",
     "index.html": "/Personal-Portfolio/index.html",
-    "main.e3d72e09.css.map": "/Personal-Portfolio/static/css/main.e3d72e09.css.map",
-    "main.58768f8e.js.map": "/Personal-Portfolio/static/js/main.58768f8e.js.map",
+    "main.73f5c79e.css.map": "/Personal-Portfolio/static/css/main.73f5c79e.css.map",
+    "main.9be03825.js.map": "/Personal-Portfolio/static/js/main.9be03825.js.map",
     "787.1ed0c42c.chunk.js.map": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3d72e09.css",
-    "static/js/main.58768f8e.js"
+    "static/css/main.73f5c79e.css",
+    "static/js/main.9be03825.js"
   ]
 }
